@@ -1,4 +1,4 @@
-<img src="./logo.svg" align="left" width="200"/>
+<img src="./logo.svg" align="left" width="300"/>
 
 ### `Quip Quill`
 
